@@ -1,47 +1,30 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# Hola, soy Julio Lagos 👋
 
-###
+### Data Analyst |
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="60" alt="sqlite logo"  />
-</div>
+---
 
-###
+### 🔍 Sobre mí
+* 📊 Enfocado en el **Análisis de Datos** y generación de insights.
+* 🐍 **Python Data Analyst** (Pandas, NumPy, Matplotlib).
+* 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/julio-lagos-3256b4216/)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/julio-lagos-3256b4216/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="juliolagos2108@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+### 🛠️ Herramientas y Tecnologías
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-###
+### Actividad en GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jlagos-data&show_icons=true&theme=transparent&title_color=3498db&text_color=ffffff&icon_color=3498db" width="400" />
+</p>
 
-<br clear="both">
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jlagos-data&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=jlagos-data&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlagos-data/jlagos-data/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jlagos-data/jlagos-data/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jlagos-data/jlagos-data/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jlagos-data.jlagos-data" />
+</p>
