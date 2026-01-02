@@ -1,30 +1,37 @@
-# Hola, soy Julio Lagos 👋
+# 👋 Hola, soy Julio Lagos  
 
-### Data Analyst |
+## Data Analyst | Dashboard Builder | Python Enthusiast  
 
----
-
-### 🔍 Sobre mí
-* 📊 Enfocado en el **Análisis de Datos** y generación de insights.
-* 🐍 **Python Data Analyst** (Pandas, NumPy, Matplotlib).
-* 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/julio-lagos-3256b4216/)
-
-### 🛠️ Herramientas y Tecnologías
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-### Actividad en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jlagos-data&show_icons=true&theme=transparent&title_color=3498db&text_color=ffffff&icon_color=3498db" width="400" />
-</p>
+Soy un apasionado del **análisis de datos** y la **visualización interactiva**. Me gusta transformar información compleja en insights claros y accionables, creando dashboards  accesibles para audiencias técnicas y ejecutivas.  
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jlagos-data.jlagos-data" />
-</p>
+## Tecnologías y Herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Proyectos Destacados
+
+- **Barça Media Monitor**  
+  Analisis de reputación del FC Barcelona en medios usando NLP para clasificar noticias positivas/negativas, con dashboard automático en Streamlit.
+   [Ver proyecto](https://github.com/jlagos-data/bar-a-media-monitor)
+
+- **Rental Car Analysis**  
+  Análisis de datos de alquiler de autos, gestión de ingresos y optimización de flotas.
+  [Ver proyecto](https://github.com/jlagos-data/rental-car-analysis)
+
+
+---
+
+## Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/julio-lagos-3256b4216)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:juliolagos2108@gmail.com)
+
+
